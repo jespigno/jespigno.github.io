@@ -7,7 +7,7 @@ color:
   header: "#000"
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
-logo_url: ./favicon.ico 
+logo_url: https://github.com/jespigno/jespigno.github.io/blob/main/favicon.ico 
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://github.com/tuur29/pages-themes-cayman
