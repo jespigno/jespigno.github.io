@@ -2,7 +2,7 @@ title: José Espiño
 description: Computer Engineering Sophomore at the University of Hong Kong
 show_downloads: false
 remote_theme: tuur29/pages-themes-cayman
-darkmode:true
+darkmode: true
 color:
   header: "#000"
   gradient_left: "#e53935"
