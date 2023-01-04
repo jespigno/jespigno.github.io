@@ -16,7 +16,7 @@ buttons:
   tar_url: bla.com
   tar_title: LinkedIn
   tar_hide: false
-  github_hide: true
+  github_hide: false
 
 
 plugins:
