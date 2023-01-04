@@ -1,6 +1,5 @@
 ---
 layout: default
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
