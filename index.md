@@ -4,9 +4,14 @@ layout: default
 
 [Home](index.md) | [Contact](contact.md) |[CV](https://raw.githubusercontent.com/jespigno/jespigno.github.io/main/ESPINO%20PITTI%20Jos%C3%A9%20Alberto%20CV.pdf)
 
-~
-  ![](/profile.jpeg) Hi, I am José, a second-year Computer Engineering Student at the University of Hong Kong. 
+
+  ![](/profile.jpeg) 
+  
+  
+  Hi, I am José, a second-year Computer Engineering Student at the University of Hong Kong. 
+ 
  My interests include Natural Language Processing, Electronic Circuits, Machine Learning, and Software Design. 
+ 
  My email is jespigno (at) connect.hku.hk
  
  
