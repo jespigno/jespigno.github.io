@@ -5,6 +5,7 @@ layout: default
 ~
   Hi, I am José, a second-year Computer Engineering Student at the University of Hong Kong. 
  My interests include Natural Language Processing, Electronic Circuits, Machine Learning, and Software Design. 
+ My email is jespigno (at) connect.hku.hk
  
  
 
