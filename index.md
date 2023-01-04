@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](index.md) | [Contact](contact.md) |[CV](https://raw.githubusercontent.com/jespigno/jespigno.github.io/main/ESPINO%20PITTI%20Jos%C3%A9%20Alberto%20CV.pdf)
+[Home](index.md) | [Research](research.md) |[CV](https://raw.githubusercontent.com/jespigno/jespigno.github.io/main/ESPINO%20PITTI%20Jos%C3%A9%20Alberto%20CV.pdf) | [LinkedIn](https://www.linkedin.com/in/jespigno/) | [Github](https://github.com/jespigno)
 
 
   ![](/profile.jpeg) 
