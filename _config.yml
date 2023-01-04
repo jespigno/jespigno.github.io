@@ -17,3 +17,7 @@ buttons:
   tar_title: LinkedIn
   tar_hide: false
   github_hide: true
+
+
+plugins:
+  - jekyll-seo-tag
