@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](index.md) | [Contact](contact.md) | [About](about.md)
+[Home](index.md) | [Contact](contact.md) |[CV](https://raw.githubusercontent.com/jespigno/jespigno.github.io/main/ESPINO%20PITTI%20Jos%C3%A9%20Alberto%20CV.pdf)
 
 ~
   ![](/profile.jpeg) Hi, I am José, a second-year Computer Engineering Student at the University of Hong Kong. 
@@ -123,10 +123,6 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
