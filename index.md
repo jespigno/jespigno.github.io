@@ -125,10 +125,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
