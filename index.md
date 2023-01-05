@@ -12,7 +12,7 @@ Hi, I am José, a second-year Computer Engineering Student at the University of 
 
 My interests include Natural Language Processing, Electronic Circuits, Machine Learning, and Software Design.
 
-I am the member of HKU Rowing team, part of HKU Biomimicry Robotics Team and Student Ambassador in HKU.
+I am the member of HKU Rowing team, part of HKU BREED (Biomimicry Robotics Team) and Student Ambassador in HKU.
 
 I am currently looking for internships and research opportunites in Hong Kong.
 
