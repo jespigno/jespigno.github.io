@@ -18,6 +18,5 @@ buttons:
   tar_hide: false
   github_hide: false
 
-
 plugins:
   - jekyll-seo-tag
