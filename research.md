@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Research
-description: TStill empty!
+description: To be filled
 ---
 
-## Welcome to another page
+## Welcome to the Research Page. Nothing to see here.
 
 _yay_
 
